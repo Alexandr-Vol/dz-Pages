@@ -7,4 +7,4 @@
 Гражданство Россия.
 Опыт работы с 12.2021 по настоящее время в БУЗ ВО "ВОПБ". До этого времени проработал 5 лет в продаже бытовой технике, 8 лет в строительстве и 7 лет мастером в столярной мастерской.
 ##### На данный момент прохожу обучение в Нетологии на курсe Fullstack-разработчик на Python https://netology.ru/programs/fullstack-python-dev
-![сайт курса] (https://netology.ru/programs/fullstack-python-dev)
+! [ сайт курса ] ( https://netology.ru/programs/fullstack-python-dev )
